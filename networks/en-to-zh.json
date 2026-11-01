@@ -1182,717 +1182,860 @@
       {
         "source_id": "ISSN:00207543",
         "target_id": "ISSN:10005781",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH ｜ 被引期刊：系统工程学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:00207543",
         "target_id": "ISSN:10006788",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH ｜ 被引期刊：系统工程理论与实践 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:00207543",
         "target_id": "ISSN:1003207X",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH ｜ 被引期刊：中国管理科学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:00207543",
         "target_id": "ISSN:10046062",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH ｜ 被引期刊：管理工程学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:00207543",
         "target_id": "ISSN:10073221",
-        "strength": 3
+        "strength": 3,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH ｜ 被引期刊：运筹与管理 ｜ 计数：3"
       },
       {
         "source_id": "ISSN:00207543",
         "target_id": "ISSN:10075429",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH ｜ 被引期刊：工业工程与管理 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:00207721",
         "target_id": "ISSN:10073221",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE ｜ 被引期刊：运筹与管理 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:00380121",
         "target_id": "ISSN:10000577",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：SOCIO-ECONOMIC PLANNING SCIENCES ｜ 被引期刊：系统科学与数学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:00380121",
         "target_id": "ISSN:10006788",
-        "strength": 6
+        "strength": 6,
+        "description": "施引期刊：SOCIO-ECONOMIC PLANNING SCIENCES ｜ 被引期刊：系统工程理论与实践 ｜ 计数：6"
       },
       {
         "source_id": "ISSN:00380121",
         "target_id": "ISSN:10046062",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：SOCIO-ECONOMIC PLANNING SCIENCES ｜ 被引期刊：管理工程学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:00380121",
         "target_id": "ISSN:10073221",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：SOCIO-ECONOMIC PLANNING SCIENCES ｜ 被引期刊：运筹与管理 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:00380121",
         "target_id": "ISSN:10096744",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：SOCIO-ECONOMIC PLANNING SCIENCES ｜ 被引期刊：交通运输系统工程与信息 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:01605682",
         "target_id": "ISSN:10000577",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY ｜ 被引期刊：系统科学与数学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:01605682",
         "target_id": "ISSN:10005781",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY ｜ 被引期刊：系统工程学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:01605682",
         "target_id": "ISSN:10006788",
-        "strength": 5
+        "strength": 5,
+        "description": "施引期刊：JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY ｜ 被引期刊：系统工程理论与实践 ｜ 计数：5"
       },
       {
         "source_id": "ISSN:01605682",
         "target_id": "ISSN:1003207X",
-        "strength": 5
+        "strength": 5,
+        "description": "施引期刊：JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY ｜ 被引期刊：中国管理科学 ｜ 计数：5"
       },
       {
         "source_id": "ISSN:01605682",
         "target_id": "ISSN:10046062",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY ｜ 被引期刊：管理工程学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:01605682",
         "target_id": "ISSN:10073221",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY ｜ 被引期刊：运筹与管理 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:01605682",
         "target_id": "ISSN:20974558",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY ｜ 被引期刊：系统管理学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:01664972",
         "target_id": "ISSN:20974558",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：TECHNOVATION ｜ 被引期刊：系统管理学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:01912615",
         "target_id": "ISSN:10006788",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：TRANSPORTATION RESEARCH PART B-METHODOLOGICAL ｜ 被引期刊：系统工程理论与实践 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:01912615",
         "target_id": "ISSN:10096744",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：TRANSPORTATION RESEARCH PART B-METHODOLOGICAL ｜ 被引期刊：交通运输系统工程与信息 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:02175959",
         "target_id": "ISSN:10006788",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：ASIA-PACIFIC JOURNAL OF OPERATIONAL RESEARCH ｜ 被引期刊：系统工程理论与实践 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:02175959",
         "target_id": "ISSN:1003207X",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：ASIA-PACIFIC JOURNAL OF OPERATIONAL RESEARCH ｜ 被引期刊：中国管理科学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:02196220",
         "target_id": "ISSN:10006788",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF INFORMATION TECHNOLOGY & DECISION MAKING ｜ 被引期刊：系统工程理论与实践 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:02196220",
         "target_id": "ISSN:10073221",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF INFORMATION TECHNOLOGY & DECISION MAKING ｜ 被引期刊：运筹与管理 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:02545330",
         "target_id": "ISSN:10005781",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：ANNALS OF OPERATIONS RESEARCH ｜ 被引期刊：系统工程学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:02545330",
         "target_id": "ISSN:10006788",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：ANNALS OF OPERATIONS RESEARCH ｜ 被引期刊：系统工程理论与实践 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:02545330",
         "target_id": "ISSN:1003207X",
-        "strength": 3
+        "strength": 3,
+        "description": "施引期刊：ANNALS OF OPERATIONS RESEARCH ｜ 被引期刊：中国管理科学 ｜ 计数：3"
       },
       {
         "source_id": "ISSN:02545330",
         "target_id": "ISSN:10073221",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：ANNALS OF OPERATIONS RESEARCH ｜ 被引期刊：运筹与管理 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:02545330",
         "target_id": "ISSN:10096744",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：ANNALS OF OPERATIONS RESEARCH ｜ 被引期刊：交通运输系统工程与信息 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:02545330",
         "target_id": "ISSN:20974558",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：ANNALS OF OPERATIONS RESEARCH ｜ 被引期刊：系统管理学报 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:02675730",
         "target_id": "ISSN:1003207X",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF TECHNOLOGY MANAGEMENT ｜ 被引期刊：中国管理科学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:03050483",
         "target_id": "ISSN:10005781",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE ｜ 被引期刊：系统工程学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:03050483",
         "target_id": "ISSN:1003207X",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE ｜ 被引期刊：中国管理科学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:03050548",
         "target_id": "ISSN:10006788",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：COMPUTERS & OPERATIONS RESEARCH ｜ 被引期刊：系统工程理论与实践 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:0305215X",
         "target_id": "ISSN:10006788",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：ENGINEERING OPTIMIZATION ｜ 被引期刊：系统工程理论与实践 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:0305215X",
         "target_id": "ISSN:1003207X",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：ENGINEERING OPTIMIZATION ｜ 被引期刊：中国管理科学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:0305215X",
         "target_id": "ISSN:10073221",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：ENGINEERING OPTIMIZATION ｜ 被引期刊：运筹与管理 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:0305215X",
         "target_id": "ISSN:10075429",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：ENGINEERING OPTIMIZATION ｜ 被引期刊：工业工程与管理 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:03772217",
         "target_id": "ISSN:10006788",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：EUROPEAN JOURNAL OF OPERATIONAL RESEARCH ｜ 被引期刊：系统工程理论与实践 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:03772217",
         "target_id": "ISSN:1003207X",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：EUROPEAN JOURNAL OF OPERATIONAL RESEARCH ｜ 被引期刊：中国管理科学 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:03772217",
         "target_id": "ISSN:10046062",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：EUROPEAN JOURNAL OF OPERATIONAL RESEARCH ｜ 被引期刊：管理工程学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:03772217",
         "target_id": "ISSN:20974558",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：EUROPEAN JOURNAL OF OPERATIONAL RESEARCH ｜ 被引期刊：系统管理学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:03990559",
         "target_id": "ISSN:10006788",
-        "strength": 4
+        "strength": 4,
+        "description": "施引期刊：RAIRO-OPERATIONS RESEARCH ｜ 被引期刊：系统工程理论与实践 ｜ 计数：4"
       },
       {
         "source_id": "ISSN:03990559",
         "target_id": "ISSN:1003207X",
-        "strength": 13
+        "strength": 13,
+        "description": "施引期刊：RAIRO-OPERATIONS RESEARCH ｜ 被引期刊：中国管理科学 ｜ 计数：13"
       },
       {
         "source_id": "ISSN:03990559",
         "target_id": "ISSN:10046062",
-        "strength": 3
+        "strength": 3,
+        "description": "施引期刊：RAIRO-OPERATIONS RESEARCH ｜ 被引期刊：管理工程学报 ｜ 计数：3"
       },
       {
         "source_id": "ISSN:03990559",
         "target_id": "ISSN:10073221",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：RAIRO-OPERATIONS RESEARCH ｜ 被引期刊：运筹与管理 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:09255001",
         "target_id": "ISSN:10079807",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：JOURNAL OF GLOBAL OPTIMIZATION ｜ 被引期刊：管理科学学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:09255273",
         "target_id": "ISSN:10005781",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS ｜ 被引期刊：系统工程学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:09255273",
         "target_id": "ISSN:10006788",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS ｜ 被引期刊：系统工程理论与实践 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:09255273",
         "target_id": "ISSN:1003207X",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS ｜ 被引期刊：中国管理科学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:09255273",
         "target_id": "ISSN:10046062",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS ｜ 被引期刊：管理工程学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:09257535",
         "target_id": "ISSN:10096744",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：SAFETY SCIENCE ｜ 被引期刊：交通运输系统工程与信息 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:09518320",
         "target_id": "ISSN:10006788",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：RELIABILITY ENGINEERING & SYSTEM SAFETY ｜ 被引期刊：系统工程理论与实践 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:09518320",
         "target_id": "ISSN:1003207X",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：RELIABILITY ENGINEERING & SYSTEM SAFETY ｜ 被引期刊：中国管理科学 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:09518320",
         "target_id": "ISSN:10073221",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：RELIABILITY ENGINEERING & SYSTEM SAFETY ｜ 被引期刊：运筹与管理 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:09518320",
         "target_id": "ISSN:10096744",
-        "strength": 5
+        "strength": 5,
+        "description": "施引期刊：RELIABILITY ENGINEERING & SYSTEM SAFETY ｜ 被引期刊：交通运输系统工程与信息 ｜ 计数：5"
       },
       {
         "source_id": "ISSN:09537287",
         "target_id": "ISSN:1003207X",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：PRODUCTION PLANNING & CONTROL ｜ 被引期刊：中国管理科学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:09574174",
         "target_id": "ISSN:10000577",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：EXPERT SYSTEMS WITH APPLICATIONS ｜ 被引期刊：系统科学与数学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:09574174",
         "target_id": "ISSN:10006788",
-        "strength": 10
+        "strength": 10,
+        "description": "施引期刊：EXPERT SYSTEMS WITH APPLICATIONS ｜ 被引期刊：系统工程理论与实践 ｜ 计数：10"
       },
       {
         "source_id": "ISSN:09574174",
         "target_id": "ISSN:1003207X",
-        "strength": 9
+        "strength": 9,
+        "description": "施引期刊：EXPERT SYSTEMS WITH APPLICATIONS ｜ 被引期刊：中国管理科学 ｜ 计数：9"
       },
       {
         "source_id": "ISSN:09574174",
         "target_id": "ISSN:10046062",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：EXPERT SYSTEMS WITH APPLICATIONS ｜ 被引期刊：管理工程学报 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:09574174",
         "target_id": "ISSN:10073221",
-        "strength": 10
+        "strength": 10,
+        "description": "施引期刊：EXPERT SYSTEMS WITH APPLICATIONS ｜ 被引期刊：运筹与管理 ｜ 计数：10"
       },
       {
         "source_id": "ISSN:09574174",
         "target_id": "ISSN:10075429",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：EXPERT SYSTEMS WITH APPLICATIONS ｜ 被引期刊：工业工程与管理 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:09574174",
         "target_id": "ISSN:10079807",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：EXPERT SYSTEMS WITH APPLICATIONS ｜ 被引期刊：管理科学学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:09574174",
         "target_id": "ISSN:10096744",
-        "strength": 4
+        "strength": 4,
+        "description": "施引期刊：EXPERT SYSTEMS WITH APPLICATIONS ｜ 被引期刊：交通运输系统工程与信息 ｜ 计数：4"
       },
       {
         "source_id": "ISSN:09574174",
         "target_id": "ISSN:20974558",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：EXPERT SYSTEMS WITH APPLICATIONS ｜ 被引期刊：系统管理学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:09696016",
         "target_id": "ISSN:10006788",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL TRANSACTIONS IN OPERATIONAL RESEARCH ｜ 被引期刊：系统工程理论与实践 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:09696016",
         "target_id": "ISSN:1003207X",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL TRANSACTIONS IN OPERATIONAL RESEARCH ｜ 被引期刊：中国管理科学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:09696016",
         "target_id": "ISSN:10073221",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL TRANSACTIONS IN OPERATIONAL RESEARCH ｜ 被引期刊：运筹与管理 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:10043756",
         "target_id": "ISSN:10000577",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：JOURNAL OF SYSTEMS SCIENCE AND SYSTEMS ENGINEERING ｜ 被引期刊：系统科学与数学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:10043756",
         "target_id": "ISSN:10005781",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：JOURNAL OF SYSTEMS SCIENCE AND SYSTEMS ENGINEERING ｜ 被引期刊：系统工程学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:10043756",
         "target_id": "ISSN:10006788",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：JOURNAL OF SYSTEMS SCIENCE AND SYSTEMS ENGINEERING ｜ 被引期刊：系统工程理论与实践 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:10043756",
         "target_id": "ISSN:1003207X",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：JOURNAL OF SYSTEMS SCIENCE AND SYSTEMS ENGINEERING ｜ 被引期刊：中国管理科学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:10043756",
         "target_id": "ISSN:10046062",
-        "strength": 3
+        "strength": 3,
+        "description": "施引期刊：JOURNAL OF SYSTEMS SCIENCE AND SYSTEMS ENGINEERING ｜ 被引期刊：管理工程学报 ｜ 计数：3"
       },
       {
         "source_id": "ISSN:10043756",
         "target_id": "ISSN:10073221",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：JOURNAL OF SYSTEMS SCIENCE AND SYSTEMS ENGINEERING ｜ 被引期刊：运筹与管理 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:10044132",
         "target_id": "ISSN:10006788",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：JOURNAL OF SYSTEMS ENGINEERING AND ELECTRONICS ｜ 被引期刊：系统工程理论与实践 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:10044132",
         "target_id": "ISSN:20974558",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：JOURNAL OF SYSTEMS ENGINEERING AND ELECTRONICS ｜ 被引期刊：系统管理学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:10981241",
         "target_id": "ISSN:1003207X",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：SYSTEMS ENGINEERING ｜ 被引期刊：中国管理科学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:11092858",
         "target_id": "ISSN:10005781",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：OPERATIONAL RESEARCH ｜ 被引期刊：系统工程学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:11092858",
         "target_id": "ISSN:1003207X",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：OPERATIONAL RESEARCH ｜ 被引期刊：中国管理科学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:11092858",
         "target_id": "ISSN:10075429",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：OPERATIONAL RESEARCH ｜ 被引期刊：工业工程与管理 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:13665545",
         "target_id": "ISSN:10005781",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW ｜ 被引期刊：系统工程学报 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:13665545",
         "target_id": "ISSN:10006788",
-        "strength": 4
+        "strength": 4,
+        "description": "施引期刊：TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW ｜ 被引期刊：系统工程理论与实践 ｜ 计数：4"
       },
       {
         "source_id": "ISSN:13665545",
         "target_id": "ISSN:1003207X",
-        "strength": 3
+        "strength": 3,
+        "description": "施引期刊：TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW ｜ 被引期刊：中国管理科学 ｜ 计数：3"
       },
       {
         "source_id": "ISSN:13665545",
         "target_id": "ISSN:10046062",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW ｜ 被引期刊：管理工程学报 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:13665545",
         "target_id": "ISSN:10073221",
-        "strength": 3
+        "strength": 3,
+        "description": "施引期刊：TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW ｜ 被引期刊：运筹与管理 ｜ 计数：3"
       },
       {
         "source_id": "ISSN:13665545",
         "target_id": "ISSN:10096744",
-        "strength": 3
+        "strength": 3,
+        "description": "施引期刊：TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW ｜ 被引期刊：交通运输系统工程与信息 ｜ 计数：3"
       },
       {
         "source_id": "ISSN:13665545",
         "target_id": "ISSN:20974558",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW ｜ 被引期刊：系统管理学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:13894420",
         "target_id": "ISSN:10073221",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：OPTIMIZATION AND ENGINEERING ｜ 被引期刊：运筹与管理 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:13894420",
         "target_id": "ISSN:20974558",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：OPTIMIZATION AND ENGINEERING ｜ 被引期刊：系统管理学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:1435246X",
         "target_id": "ISSN:10006788",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：CENTRAL EUROPEAN JOURNAL OF OPERATIONS RESEARCH ｜ 被引期刊：系统工程理论与实践 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:1435246X",
         "target_id": "ISSN:1003207X",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：CENTRAL EUROPEAN JOURNAL OF OPERATIONS RESEARCH ｜ 被引期刊：中国管理科学 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:1435246X",
         "target_id": "ISSN:20974558",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：CENTRAL EUROPEAN JOURNAL OF OPERATIONS RESEARCH ｜ 被引期刊：系统管理学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:1471678X",
         "target_id": "ISSN:10006788",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：IMA JOURNAL OF MANAGEMENT MATHEMATICS ｜ 被引期刊：系统工程理论与实践 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:1471678X",
         "target_id": "ISSN:10046062",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：IMA JOURNAL OF MANAGEMENT MATHEMATICS ｜ 被引期刊：管理工程学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:15234614",
         "target_id": "ISSN:20974558",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：M&SOM-MANUFACTURING & SERVICE OPERATIONS MANAGEMENT ｜ 被引期刊：系统管理学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:15475816",
         "target_id": "ISSN:10005781",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：JOURNAL OF INDUSTRIAL AND MANAGEMENT OPTIMIZATION ｜ 被引期刊：系统工程学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:15475816",
         "target_id": "ISSN:10006788",
-        "strength": 9
+        "strength": 9,
+        "description": "施引期刊：JOURNAL OF INDUSTRIAL AND MANAGEMENT OPTIMIZATION ｜ 被引期刊：系统工程理论与实践 ｜ 计数：9"
       },
       {
         "source_id": "ISSN:15475816",
         "target_id": "ISSN:1003207X",
-        "strength": 10
+        "strength": 10,
+        "description": "施引期刊：JOURNAL OF INDUSTRIAL AND MANAGEMENT OPTIMIZATION ｜ 被引期刊：中国管理科学 ｜ 计数：10"
       },
       {
         "source_id": "ISSN:15475816",
         "target_id": "ISSN:10046062",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：JOURNAL OF INDUSTRIAL AND MANAGEMENT OPTIMIZATION ｜ 被引期刊：管理工程学报 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:15475816",
         "target_id": "ISSN:10073221",
-        "strength": 5
+        "strength": 5,
+        "description": "施引期刊：JOURNAL OF INDUSTRIAL AND MANAGEMENT OPTIMIZATION ｜ 被引期刊：运筹与管理 ｜ 计数：5"
       },
       {
         "source_id": "ISSN:15475816",
         "target_id": "ISSN:10079807",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：JOURNAL OF INDUSTRIAL AND MANAGEMENT OPTIMIZATION ｜ 被引期刊：管理科学学报 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:15475816",
         "target_id": "ISSN:20974558",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：JOURNAL OF INDUSTRIAL AND MANAGEMENT OPTIMIZATION ｜ 被引期刊：系统管理学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:17509653",
         "target_id": "ISSN:10006788",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE AND ENGINEERING MANAGEMENT ｜ 被引期刊：系统工程理论与实践 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:17509653",
         "target_id": "ISSN:1003207X",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE AND ENGINEERING MANAGEMENT ｜ 被引期刊：中国管理科学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:17509653",
         "target_id": "ISSN:10073221",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE AND ENGINEERING MANAGEMENT ｜ 被引期刊：运筹与管理 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:17515254",
         "target_id": "ISSN:10073221",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：EUROPEAN JOURNAL OF INDUSTRIAL ENGINEERING ｜ 被引期刊：运筹与管理 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:17558913",
         "target_id": "ISSN:10073221",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF APPLIED MANAGEMENT SCIENCE ｜ 被引期刊：运筹与管理 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:19232926",
         "target_id": "ISSN:10000577",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF INDUSTRIAL ENGINEERING COMPUTATIONS ｜ 被引期刊：系统科学与数学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:19232926",
         "target_id": "ISSN:10005781",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF INDUSTRIAL ENGINEERING COMPUTATIONS ｜ 被引期刊：系统工程学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:19232926",
         "target_id": "ISSN:10006788",
-        "strength": 4
+        "strength": 4,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF INDUSTRIAL ENGINEERING COMPUTATIONS ｜ 被引期刊：系统工程理论与实践 ｜ 计数：4"
       },
       {
         "source_id": "ISSN:19232926",
         "target_id": "ISSN:1003207X",
-        "strength": 18
+        "strength": 18,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF INDUSTRIAL ENGINEERING COMPUTATIONS ｜ 被引期刊：中国管理科学 ｜ 计数：18"
       },
       {
         "source_id": "ISSN:19232926",
         "target_id": "ISSN:10046062",
-        "strength": 3
+        "strength": 3,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF INDUSTRIAL ENGINEERING COMPUTATIONS ｜ 被引期刊：管理工程学报 ｜ 计数：3"
       },
       {
         "source_id": "ISSN:19232926",
         "target_id": "ISSN:10073221",
-        "strength": 4
+        "strength": 4,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF INDUSTRIAL ENGINEERING COMPUTATIONS ｜ 被引期刊：运筹与管理 ｜ 计数：4"
       },
       {
         "source_id": "ISSN:19232926",
         "target_id": "ISSN:10075429",
-        "strength": 3
+        "strength": 3,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF INDUSTRIAL ENGINEERING COMPUTATIONS ｜ 被引期刊：工业工程与管理 ｜ 计数：3"
       },
       {
         "source_id": "ISSN:19232926",
         "target_id": "ISSN:10096744",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF INDUSTRIAL ENGINEERING COMPUTATIONS ｜ 被引期刊：交通运输系统工程与信息 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:19295804",
         "target_id": "ISSN:10073221",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：DECISION SCIENCE LETTERS ｜ 被引期刊：运筹与管理 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:20818858",
         "target_id": "ISSN:10000577",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：OPERATIONS RESEARCH AND DECISIONS ｜ 被引期刊：系统科学与数学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:20962320",
         "target_id": "ISSN:10006788",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：JOURNAL OF MANAGEMENT SCIENCE AND ENGINEERING ｜ 被引期刊：系统工程理论与实践 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:20962320",
         "target_id": "ISSN:1003207X",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：JOURNAL OF MANAGEMENT SCIENCE AND ENGINEERING ｜ 被引期刊：中国管理科学 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:20962320",
         "target_id": "ISSN:10079807",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：JOURNAL OF MANAGEMENT SCIENCE AND ENGINEERING ｜ 被引期刊：管理科学学报 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:2194668X",
         "target_id": "ISSN:10000577",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：JOURNAL OF THE OPERATIONS RESEARCH SOCIETY OF CHINA ｜ 被引期刊：系统科学与数学 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:2194668X",
         "target_id": "ISSN:10073221",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：JOURNAL OF THE OPERATIONS RESEARCH SOCIETY OF CHINA ｜ 被引期刊：运筹与管理 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:22147160",
         "target_id": "ISSN:10006788",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：OPERATIONS RESEARCH PERSPECTIVES ｜ 被引期刊：系统工程理论与实践 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:22147160",
         "target_id": "ISSN:10046062",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：OPERATIONS RESEARCH PERSPECTIVES ｜ 被引期刊：管理工程学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:22147160",
         "target_id": "ISSN:10073221",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：OPERATIONS RESEARCH PERSPECTIVES ｜ 被引期刊：运筹与管理 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:23302674",
         "target_id": "ISSN:10000577",
-        "strength": 3
+        "strength": 3,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE-OPERATIONS & LOGISTICS ｜ 被引期刊：系统科学与数学 ｜ 计数：3"
       },
       {
         "source_id": "ISSN:23302674",
         "target_id": "ISSN:10005781",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE-OPERATIONS & LOGISTICS ｜ 被引期刊：系统工程学报 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:23302674",
         "target_id": "ISSN:10006788",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE-OPERATIONS & LOGISTICS ｜ 被引期刊：系统工程理论与实践 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:23302674",
         "target_id": "ISSN:1003207X",
-        "strength": 7
+        "strength": 7,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE-OPERATIONS & LOGISTICS ｜ 被引期刊：中国管理科学 ｜ 计数：7"
       },
       {
         "source_id": "ISSN:23302674",
         "target_id": "ISSN:10046062",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE-OPERATIONS & LOGISTICS ｜ 被引期刊：管理工程学报 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:23302674",
         "target_id": "ISSN:10073221",
-        "strength": 2
+        "strength": 2,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE-OPERATIONS & LOGISTICS ｜ 被引期刊：运筹与管理 ｜ 计数：2"
       },
       {
         "source_id": "ISSN:23302674",
         "target_id": "ISSN:10096744",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE-OPERATIONS & LOGISTICS ｜ 被引期刊：交通运输系统工程与信息 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:24557749",
         "target_id": "ISSN:10073221",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：INTERNATIONAL JOURNAL OF MATHEMATICAL ENGINEERING AND MANAGEMENT SCIENCES ｜ 被引期刊：运筹与管理 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:26661888",
         "target_id": "ISSN:10006788",
-        "strength": 3
+        "strength": 3,
+        "description": "施引期刊：SUSTAINABLE FUTURES ｜ 被引期刊：系统工程理论与实践 ｜ 计数：3"
       },
       {
         "source_id": "ISSN:26661888",
         "target_id": "ISSN:1003207X",
-        "strength": 6
+        "strength": 6,
+        "description": "施引期刊：SUSTAINABLE FUTURES ｜ 被引期刊：中国管理科学 ｜ 计数：6"
       },
       {
         "source_id": "ISSN:26661888",
         "target_id": "ISSN:10073221",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：SUSTAINABLE FUTURES ｜ 被引期刊：运筹与管理 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:26661888",
         "target_id": "ISSN:10079807",
-        "strength": 3
+        "strength": 3,
+        "description": "施引期刊：SUSTAINABLE FUTURES ｜ 被引期刊：管理科学学报 ｜ 计数：3"
       },
       {
         "source_id": "ISSN:26661888",
         "target_id": "ISSN:10096744",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：SUSTAINABLE FUTURES ｜ 被引期刊：交通运输系统工程与信息 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:27723909",
         "target_id": "ISSN:1003207X",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：CLEANER LOGISTICS AND SUPPLY CHAIN ｜ 被引期刊：中国管理科学 ｜ 计数：1"
       },
       {
         "source_id": "ISSN:29498635",
         "target_id": "ISSN:10046062",
-        "strength": 1
+        "strength": 1,
+        "description": "施引期刊：SUPPLY CHAIN ANALYTICS ｜ 被引期刊：管理工程学报 ｜ 计数：1"
       }
     ],
     "clusters": [
@@ -1939,12 +2082,12 @@
       "links": "期刊对",
       "cluster": "语言组",
       "clusters": "语言组",
-      "link_strength": "该方向引用数",
+      "link_strength": "计数",
       "total_link_strength": "本图引用量合计"
     }
   },
   "info": {
     "title": "MSOR｜英文 → 中文",
-    "description": "英文期刊施引，中文期刊被引；边权仅计英文→中文。<br>2021—2025 核查修正版。去除期刊自引；VOSviewer 连线无箭头，方向以本图标题和语言颜色为准。<br>三图共用坐标：中文左侧按联合名次排布，英文右侧使用固定种子的力导向布局。<br>布局吸引力使用 log(1+双向引用量)，各轴再按分位次序拉开密集节点；距离不作分析解释。JSON 边权未变；颜色为语言分组，未重新聚类。<br>仅保留本图有引用联系的节点；SpringRank 与名次来自完整联合网络，未分方向重算。 <br>v4 恢复 REPORT 双环坐标；总体网页可切换仅桥接边、仅内部边或全部边。坐标仅作语言分组示意，不表示排名。"
+    "description": "2021—2025 年 MSOR 期刊引用网络。橙色为中文期刊，蓝色为英文期刊；点击连线查看引用方向与计数。"
   }
 }
